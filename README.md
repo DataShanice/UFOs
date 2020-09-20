@@ -1,1 +1,4 @@
 # UFOs
+## Written Summary
+  #### This project proved that creating a functioning webpage with filters, tables and images isn't as easy at it looks. While we did use the code needed to make the basis of the webpage, we also needed to create, update and deploy new Javascript functions that provieded addtional filters. We also updated/ added some for loops through the filters as well. Using the scraping we did for UFO Sightings, provided us the data we needed to create a seperate webpage that we were able to add tables that had the follwing filters for each sighting : Date, City, State, Country, and Shape. 
+ #### If I could make one recommendation, it would be to add a filter for the times in which the sightings occured. Due to the time difference in. many country's, it would provided more accurate date to then draw conclusions of patterns with sightings. 
